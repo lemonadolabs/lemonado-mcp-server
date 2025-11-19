@@ -1,0 +1,13 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+    "name": "io.github.lemonadolabs/lemonado-mcp-server",
+    "title": "Lemonado",
+    "description": "The Lemonado MCP enables your AI agents to query data from marketing platforms, payment processors, and productivity tools such as Google Ads, Meta Ads, LinkedIn Ads, Google Analytics, Stripe, Google Sheets, and CSV files. The MCP can run SQL across these data sources.",
+    "version": "1.0.1",
+    "remotes": [
+        {
+            "type": "streamable-http",
+            "url": "https://mcp.lemonado.io/mcp"
+        }
+    ]
+}
