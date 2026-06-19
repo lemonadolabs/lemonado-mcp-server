@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lemonadolabs-lemonado-mcp-server-badge.png)](https://mseep.ai/app/lemonadolabs-lemonado-mcp-server)
+
 ![Lemonado Logo](https://storage.googleapis.com/lemonado-public-upload/lemonado_logo.png)
 
 # Lemonado MCP Server
